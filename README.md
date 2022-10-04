@@ -6,3 +6,4 @@
 4.  [Final Value of Variable After Performing Operations](./valueAfterOperations/)
 5.  [Concatenation of Array](./arrayConcat/)
 6.  [Shuffle the Array](./arrayShuffle/)
+7.  [Richest Customer Wealth](./richestCustomerWealth/)
