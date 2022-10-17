@@ -8,3 +8,4 @@
 6.  [Shuffle the Array](./arrayShuffle/)
 7.  [Richest Customer Wealth](./richestCustomerWealth/)
 8.  [Kids With the Greatest Number of Candies](./greatestCandies/)
+9.  [Decode XORed Array](./XORdecode/)
