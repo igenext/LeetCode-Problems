@@ -24,3 +24,5 @@ Output: [1,2,3]
 * -100 <= Node.val <= 100
 
 * The list is guaranteed to be sorted in ascending order.
+
+[Solution Java](./solution.java)
