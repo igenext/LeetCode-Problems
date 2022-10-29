@@ -11,3 +11,4 @@
 9.  [Decode XORed Array](./XORdecode/)
 10. [Maximum Number of Words Found in Sentences](./maxWords/)
 11. [Defanging an IP Address](./defangAnIP/)
+12. [Remove Duplicates from Sorted List](./removeDuplicatesList/)
