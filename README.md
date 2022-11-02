@@ -13,3 +13,4 @@
 11. [Defanging an IP Address](./defangAnIP/)
 12. [Remove Duplicates from Sorted List](./removeDuplicatesList/)
 13. [258. Add Digits](./addDigits/)
+14. [2325. Decode the Message](./decodeMessage/)
