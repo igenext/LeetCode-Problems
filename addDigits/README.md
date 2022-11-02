@@ -26,6 +26,6 @@ Output: 0
 
 ### Constraints:
 
-* 0 <= num <= 231 - 1
+* 0 <= num <= 2<sup>31</sup> - 1
 
 [Java-Solution](./solution.java)
