@@ -12,3 +12,4 @@
 10. [Maximum Number of Words Found in Sentences](./maxWords/)
 11. [Defanging an IP Address](./defangAnIP/)
 12. [Remove Duplicates from Sorted List](./removeDuplicatesList/)
+13. [258. Add Digits](./addDigits/)
