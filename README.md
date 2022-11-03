@@ -15,3 +15,4 @@
 13. [258. Add Digits](./addDigits/)
 14. [2325. Decode the Message](./decodeMessage/)
 15. [1941. Check if All Characters Have Equal Number of Occurrences](./charEqualOccurrences/)
+15. [1678. Goal Parser Interpretation](./goalParserInterpretation/)
