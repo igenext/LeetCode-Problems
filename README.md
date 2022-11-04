@@ -17,3 +17,4 @@
 15. [1941. Check if All Characters Have Equal Number of Occurrences](./charEqualOccurrences/)
 15. [1678. Goal Parser Interpretation](./goalParserInterpretation/)
 16. [1528. Shuffle String](./shuffleString/)
+17. [1816. Truncate Sentence](./truncateSentence/)
