@@ -18,3 +18,4 @@
 15. [1678. Goal Parser Interpretation](./goalParserInterpretation/)
 16. [1528. Shuffle String](./shuffleString/)
 17. [1816. Truncate Sentence](./truncateSentence/)
+18. [1365. How Many Numbers Are Smaller Than the Current Number](./numsSmallerthanCurrentnum/)
