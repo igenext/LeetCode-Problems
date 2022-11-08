@@ -20,3 +20,4 @@
 17. [1816. Truncate Sentence](./truncateSentence/)
 18. [1365. How Many Numbers Are Smaller Than the Current Number](./numsSmallerthanCurrentnum/)
 19. [1389. Create Target Array in the Given Order](./targetArrayinGivenOrder/)
+20. [1544. Make The String Great](./makeStringGreat/)
