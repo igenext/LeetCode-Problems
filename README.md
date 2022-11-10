@@ -22,3 +22,4 @@
 19. [1389. Create Target Array in the Given Order](./targetArrayinGivenOrder/)
 20. [1544. Make The String Great](./makeStringGreat/)
 21. [1281. Subtract the Product and Sum of Digits of an Integer](./subProductandSumofDigits/)
+22. [1486. XOR Operation in an Array](./xorOperationInanArray/)
