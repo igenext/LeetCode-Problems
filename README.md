@@ -26,3 +26,4 @@
 23. [1290. Convert Binary Number in a Linked List to Integer](./binaryLinkedlistToInteger/)
 24. [26. Remove Duplicates from Sorted Array](./removeDuplicatesfromSortedArray/)
 25. [1979. Find Greatest Common Divisor of Array](./gcdOfanArray/)
+26. [2119. A Number After a Double Reversal](./numberAfterDoubleReversal/)
