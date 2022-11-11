@@ -24,4 +24,4 @@
 21. [1281. Subtract the Product and Sum of Digits of an Integer](./subProductandSumofDigits/)
 22. [1486. XOR Operation in an Array](./xorOperationInanArray/)
 23. [1290. Convert Binary Number in a Linked List to Integer](./binaryLinkedlistToInteger/)
-24. [26. Remove Duplicates from Sorted Array](./removeDuplicatesformSortedArray/)
+24. [26. Remove Duplicates from Sorted Array](./removeDuplicatesfromSortedArray/)
