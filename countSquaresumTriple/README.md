@@ -2,7 +2,7 @@
 
 ## Problem Statement:
 
-A square triple `(a,b,c)` is a triple where `a`, `b`, and `c` are integers and `a<sup>2</sup>` + `b<sup>2</sup>` = `b<sup>2</sup>`.
+A square triple `(a,b,c)` is a triple where `a`, `b`, and `c` are integers and `a`<sup>2</sup> + `b`<sup>2</sup> = `b`<sup>2</sup>.
 
 Given an integer `n`, return the number of square triples such that `1 <= a, b, c <= n`.
 
