@@ -27,4 +27,4 @@
 24. [26. Remove Duplicates from Sorted Array](./removeDuplicatesfromSortedArray/)
 25. [1979. Find Greatest Common Divisor of Array](./gcdOfanArray/)
 26. [2119. A Number After a Double Reversal](./numberAfterDoubleReversal/)
-27. [1925. Count Square Sum Triples]
+27. [1925. Count Square Sum Triples](./countSquaresumTriple/)
