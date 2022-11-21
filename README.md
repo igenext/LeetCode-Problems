@@ -28,3 +28,4 @@
 25. [1979. Find Greatest Common Divisor of Array](./gcdOfanArray/)
 26. [2119. A Number After a Double Reversal](./numberAfterDoubleReversal/)
 27. [1925. Count Square Sum Triples](./countSquaresumTriple/)
+28. [2236. Root Equals Sum of Children](./rootEqualsSumofChildren/)
