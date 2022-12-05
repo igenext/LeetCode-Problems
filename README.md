@@ -30,3 +30,4 @@
 27. [1925. Count Square Sum Triples](./countSquaresumTriple/)
 28. [2236. Root Equals Sum of Children](./rootEqualsSumofChildren/)
 29. [700. Search in a Binary Search Tree](./searchInaBinaryTree/)
+30. [876. Middle of the Linked List](./midOftheLinkedList/)
