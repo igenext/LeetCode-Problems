@@ -32,3 +32,4 @@
 29. [700. Search in a Binary Search Tree](./searchInaBinaryTree/)
 30. [876. Middle of the Linked List](./midOftheLinkedList/)
 31. [509. Fibonacci Number](./fibonacciNumber/)
+32. [290. Word Pattern](./wordPattern/)
