@@ -33,3 +33,4 @@
 30. [876. Middle of the Linked List](./midOftheLinkedList/)
 31. [509. Fibonacci Number](./fibonacciNumber/)
 32. [290. Word Pattern](./wordPattern/)
+33. [944. Delete Columns to Make Sorted](./delColumnstomakeSorted/)
