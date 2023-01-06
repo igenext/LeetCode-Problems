@@ -34,3 +34,4 @@
 31. [509. Fibonacci Number](./fibonacciNumber/)
 32. [290. Word Pattern](./wordPattern/)
 33. [944. Delete Columns to Make Sorted](./delColumnstomakeSorted/)
+34. [1833. Maximum Ice Cream Bars](./maxIcecreamBars/)
